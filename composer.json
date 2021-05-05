@@ -1,5 +1,5 @@
 {
-    "name": "alligovender/auditor-bundle",
+    "name": "alli-govender/auditor-bundle",
     "type": "symfony-bundle",
     "description": "Integrate auditor library in your Symfony projects.",
     "keywords": ["doctrine", "audit", "auditor", "audit-log", "audit-trail"],
