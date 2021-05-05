@@ -1,13 +1,13 @@
 {
-    "name": "damienharper/auditor-bundle",
+    "name": "alli-govender/auditor-bundle",
     "type": "symfony-bundle",
     "description": "Integrate auditor library in your Symfony projects.",
     "keywords": ["doctrine", "audit", "auditor", "audit-log", "audit-trail"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Damien Harper",
-            "email": "damien.harper@gmail.com"
+            "name": "Alli Govender",
+            "email": "alli.govender@gmail.com"
         }
     ],
     "require": {
